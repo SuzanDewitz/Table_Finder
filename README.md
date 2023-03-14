@@ -1,3 +1,50 @@
+This is a Django project settings file. It includes various configurations that affect the behavior of the Django web framework when running the project.
+
+Some notable settings include:
+
+SECRET_KEY: A secret string used for cryptographic signing. It is used for things like generating CSRF tokens and signing session cookies. It is important to keep this value secret.
+DEBUG: A boolean that determines whether or not debug mode is enabled. When debug mode is enabled, Django will display detailed error messages and debugging information in case of an error. This should be turned off in production.
+ALLOWED_HOSTS: A list of strings representing the host/domain names that this Django site can serve.
+INSTALLED_APPS: A list of strings representing the installed apps in this Django project. An app is a component of a Django project that provides a specific functionality, such as authentication or database management.
+TEMPLATES: A list of template engines to use and their configurations. Templates are used for rendering HTML pages.
+DATABASES: A dictionary containing the configuration settings for the project's database.
+STATIC_URL: The base URL to use for serving static files (CSS, JavaScript, Images). This setting is used in combination with the STATICFILES_DIRS and STATIC_ROOT settings.
+DEFAULT_AUTO_FIELD: The type of primary key to use for newly created database tables. This setting is introduced in Django 3.2 and helps to reduce migration issues that arise from changes to the primary key field type.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Suzan Dewitz,

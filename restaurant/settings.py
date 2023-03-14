@@ -1,3 +1,14 @@
+...
+# Authentication backends
+AUTHENTICATION_BACKENDS = [
+    'django.contrib.auth.backends.ModelBackend',
+    'allauth.account.auth_backends.AuthenticationBackend',
+]
+
+# Site ID
+SITE_ID = 1
+
+
 import os 
 from pathlib import Path
 
@@ -41,6 +52,11 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
+    'account',    
+    'openid',   
+    'socialaccount',    
+    'tests',   
+
 ]
 SITE_ID = 1 # this is required by allauth
 
