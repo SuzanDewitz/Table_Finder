@@ -52,11 +52,8 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
-    'account',    
-    'openid',   
-    'socialaccount',    
-    'tests',   
-
+      
+    
 ]
 SITE_ID = 1 # this is required by allauth
 
