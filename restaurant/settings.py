@@ -37,7 +37,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'homepage',
+    'django.contrib.sites',
+    'allauth',
+    'allauth.account',
+    'allauth.socialaccount',
 ]
+SITE_ID = 1 # this is required by allauth
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
