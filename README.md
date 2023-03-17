@@ -1,38 +1,52 @@
-User Stories
+[User Stories](https://en.wikipedia.org/wiki/User_story)
 
-Design and Site Structure
+[Design and Site Structure](https://www.smashingmagazine.com/2016/05/improving-ui-design-skills-with-practice-lessons-learned/)
+ 
+ + [Functional Structure](https://en.wikipedia.org/wiki/Functional_organizational_structure)
 
-Functional Structure
+  + [Wireframes](https://www.invisionapp.com/inside-design/creating-wireframes/)
 
-Wireframes
+[Features](https://www.productplan.com/glossary/product-features/)
 
-Features
+ + [Responsive Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 
-Responsive Design
+[Technologies](https://en.wikipedia.org/wiki/List_of_programming_languages)
 
-Technologies
+  + [Languages](https://en.wikipedia.org/wiki/List_of_programming_languages)
+ 
+  + [Frameworks and Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
 
-Languages
+  + [Tools](https://www.codecademy.com/resources/blog/the-best-ide-for-web-development-in-2021/)
 
-Frameworks and Libraries
+[Testing](https://www.guru99.com/software-testing.html)
 
-Tools
+[Deployment](https://www.heroku.com/)
 
-Testing
+[Credits](https://github.com/SuzanDewitz)
 
-Deployment
+  + [Code](https://github.com/SuzanDewitz/TableFinder)
 
-Credits
+  + [Content](https://www.productplan.com/glossary/product-content/)
 
-Code
+  + [Media](https://www.canva.com/)
 
-Content
+  + [Inspiration](https://dribbble.com/)
 
-Media
+  + [Acknowledgments](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 
-Inspiration
 
-Acknowledgments
+  <br>
+  <br>
+
+
+  # Portfolio Project 4 - TableFinder restaurant booking system
+ <br>
+  <br>
+
+
+
+   <br>
+  <br>
 
 Make sure to add corresponding section headers in your README file using Markdown syntax, like this:
 
