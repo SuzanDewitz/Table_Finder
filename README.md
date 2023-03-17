@@ -1,14 +1,19 @@
-[User Stories](https://en.wikipedia.org/wiki/User_story)
+- [User Experience (UX)](UX_URL)
+   - [Project goals](Project_goals_URL)
+   - [User Stories](User_Stories_URL)
+   - [Agile Methodology](Agile_Methodology_URL)
+   - [Design](Design_URL)
+        - [Wireframes](Wireframes_URL)
+        - [Database Schema](Database_Schema_URL)
 
-[Design and Site Structure](https://www.smashingmagazine.com/2016/05/improving-ui-design-skills-with-practice-lessons-learned/)
- 
- + [Functional Structure](https://en.wikipedia.org/wiki/Functional_organizational_structure)
-
-  + [Wireframes](https://www.invisionapp.com/inside-design/creating-wireframes/)
 
 [Features](https://www.productplan.com/glossary/product-features/)
 
- + [Responsive Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+
+
+ - [Future Features](https://www.example.com/future-features)
+
++ [Responsive Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 
 [Technologies](https://en.wikipedia.org/wiki/List_of_programming_languages)
 
